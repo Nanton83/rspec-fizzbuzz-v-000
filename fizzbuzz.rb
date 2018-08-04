@@ -4,8 +4,6 @@
 def fizzbuzz(int)
   if int % 3
     "Fizz"
-  else if int % 5
-    "Buzz"
+  end
 end
-end
-end
+
