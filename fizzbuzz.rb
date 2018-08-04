@@ -2,9 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(int)
-  if int % 15
-    "FizzBuzz"
-  int % 5
-    "Buzz"
+  if int % 3
+    "Fizz"
   end
 end
