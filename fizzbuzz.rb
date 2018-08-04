@@ -6,7 +6,3 @@ def fizzbuzz(int)
     "Fizz"
   end
 end
-else if int % 5
-  "Buzz"
-end
-end
